@@ -1,0 +1,126 @@
+.header {
+    background: #3b5998;
+    width: 100%;
+    height: 70px;
+    padding-top: 5x;
+    display: flex; 
+}
+body {
+    margin:0;
+    font-family: Helvetica Neue, Arial, sans-serif;
+
+}
+.logo {
+    width:500px;
+    margin-top: 15px;
+}
+.login {
+    width:500px;
+    
+    float: right;
+    padding-left: 240px;
+}
+.fb {
+    text-decoration: none;
+    color: #fff;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: Helvetica Neue, Arial, sans-serif;
+    margin-left:180px;
+    margin-top: 200px;  
+}
+.login-label {
+    color: #fff;
+    font-size: 14px;
+}
+.forgotten-label {
+    color: #9cb4d8;
+    text-decoration: none;
+    font-size: 14px;
+}
+.submit-button {
+    background: #4267b2;
+    color: #fff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+.submit-button:hover {
+    background: #9cb4d8;
+}
+.left-section {
+    width: 50%;
+    padding-left: 136px;
+    padding-top: 52px;
+
+}
+.right-section {
+    width: 50%;
+    float: right;
+    padding-top: 52px;
+}
+.main-body {
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.image {
+    width: 581px;
+    height: 300px;
+}
+.para {
+    font-weight: bold;
+    font-size: 26px;
+}
+.form-input1 {
+    border-radius: 8px;
+    font-size: 16px;
+    height: 25px;
+    width: 244px;
+    border: none;
+    padding-left: 10px;
+   
+}
+.form-input2 {
+    border-radius: 8px;
+    font-size: 16px;
+    height: 25px;
+    width: 504px;
+    margin-top: 20px;
+    border: none;
+    padding-left: 10px;
+    border-color: black;
+}
+
+.form-input3 {
+    border-radius: 8px;
+    font-size: 16px;
+    height: 25px;
+    width: 504px;
+    margin-top: 20px;
+    border: none;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+.sex {
+  padding-top: 20px;
+}
+
+.btn {
+    margin-top: 20px;
+    font-size: 14px;
+    background: green;
+    color: #fff;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+}
+.btn:hover {
+    background: greenyellow ;
+}
+.footter {
+    background: #3b5998;
+    width: 100%;
+    height: 50px;
+}
